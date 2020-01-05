@@ -72,7 +72,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - Update `SplitButton` styles in Teams theme [redlines] @notandrew ([#2108](https://github.com/microsoft/fluent-ui-react/pull/2108))
 - Fix `Popup` positioning in multiple cases @layershifter ([#2187](https://github.com/microsoft/fluent-ui-react/pull/2187))
 - Fix click outside in `Popup` when `trigger` is not defined @layershifter ([#2202](https://github.com/microsoft/fluent-ui-react/pull/2202))
-- Fix missing aria-describedby in AlertBehavior @delprzemo ([#2202](https://github.com/microsoft/fluent-ui-react/pull/2197))
+- Fix missing aria-describedby in AlertBehavior @delprzemo ([#2202](https://github.com/microsoft/fluent-ui-react/pull/2208))
 - Use `debounce` from `lodash` in `Dropdown` and `Carouel` @silviuavram ([#2203](https://github.com/microsoft/fluent-ui-react/pull/2203))
 
 <!--------------------------------[ v0.42.0 ]------------------------------- -->
